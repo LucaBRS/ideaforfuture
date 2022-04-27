@@ -192,3 +192,105 @@ row con triangolo					10			20		x4
 	- inclinaz lat		12 x lat
 	- sumo squat		12
 	- tricipiti			12 x lat
+	
+#########################
+######### LEO ###########
+#########################
+
+***
+1
+***
+
+risc quello che vuoi
+CORE
+
+# petto:
+5x 10 piegamenti larghi
+5x10 piegamenti stretti
+
+
+# gambe:
+5x15 squat completo con elastico sotto i piedi e sopra le spalle
+5x10 jump squat
+
+# dorso gambe:
+stacco gambe parallele 5x10 con elastico sotto i piedi teso
+5x20 stacco con bottiglia d'acqua inogni mano
+
+# ABS
+8X(20"-10"REC) CRUNCH-SIT UP -OBLIQUI
+
+# WOD
+10 AMRAP
+(5 PIEGAMENTI-10 JUMP SQUAT- 40 SIT UP)
+
+***
+2
+***
+
+risc quello che vuoi
+CORE
+
+# braccia:
+curl bicipiti 5x 10 x braccio con elastico sotto i piedi
+5x10 curl bicipiti con elastico sotto i piedi ma mano rivolta verso il basso
+
+# tricipiti:
+elastico sotto i piei, tiro elastico dalla spalla fin sopra la testa 5 x 10 x braccio
+5x10 piegamenti braccia strette
+
+# glutei:
+ponte isometrico 5x40"" culo stretto
+5x10 ponte con peso su addome
+
+# WOD
+5'EMOM 5' OGNI MINUTO
+8 BURPEES-5 TRAZIONI TRX
+
+***
+3
+***
+
+risc quello che vuoi
+CORE
+# petto:
+5x 10 piegamenti larghi
+5x10 piegamenti stretti
+
+# gambe:
+5x15 squat completo con elastico sotto i piedi e sopra le spalle
+5x10 jump squat
+
+# dorso gambe:
+stacco gambe parallele 5x10 con elastico sotto i piedi teso
+5x20 stacco con bottiglia d'acqua inogni mano
+
+# ABS
+8X(20"-10"REC) CRUNCH-SIT UP -OBLIQUI
+
+# WOD
+10 AMRAP
+40 SIT UP-10 BURPEES
+
+***
+4
+***
+
+risc quello che vuoi
+CORE
+
+# braccia:
+curl bicipiti 5x10 x braccio con elastico sotto i piedi
+5x10 curl bicipiti con elastico sotto i piedi ma mano rivolta verso il basso
+
+# tricipiti:
+elastico sotto i piei, tiro elastico dalla spalla fin sopra la testa 5 x 10 x braccio
+5x10 piegamenti braccia strette
+
+# glutei:
+ponte isometrico 5x40"" culo stretto
+5x10 ponte con peso su addome
+
+# WOD
+5'EMOM
+10 TRAZIONI TRX-10 JUMP SQUAT
