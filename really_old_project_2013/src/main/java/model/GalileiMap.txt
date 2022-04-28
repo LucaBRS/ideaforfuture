@@ -1,0 +1,28 @@
+            C01                 g01       I01       K01       m01                 Q01                 U01          
+       b01                 F01       H01       J01       l01       n01       P01       R01                 V01
+  a02       c02       E02       g02       i02       K02       M02       o02       q02       s02       u02       w02
+       BBB       d02       f02       H02       j02       L02       n02       p02       r02       t02       BBB
+  a03       c03       e03       g03       i03       k03       m03                 q03                 u03       W03
+       b03       d03       f03       H03       j03       l03       N03       P03       r03                 v03
+  A04       c04       e04       g04       i04       k04       m04                 Q04       s04       u04       W04
+       b04                 f04       h04       j04       L04       n04       P04       R04                 v04
+  A05       c05       e05       g05       i05       K05       M05       O05       q05       s05       U05       W05
+       B05       d05       f05                 j05       l05       n05       p05       r05       t05       v05
+  A06       c06       e06       g06                 k06       m06       o06       q06       s06       u06       W06
+       b06                 f06       h06       j06       AAA       n06       p06       R06       t06       v06
+            c07                 G07       i07                           o07       Q07       s07       u07          
+                           f07       H07                                     p07       R07       T07          
+            c08       e08       g08       i08       k08       m08       o08       q08       s08       u08          
+       b08       d08       f08       h08       j08       HHH       n08       p08       R08       T08       V08
+  A09       c09       e09       g09       I09       K09       M09       O09       q09       s09       u09       w09
+       b09       d09       f09       h09       j09       L09       n09       p09       r09                 v09
+  A10       c10       e10       g10       i10       k10       m10       o10       q10                 u10       W10
+       B10       D10       F10                 j10       l10       n10       p10                           v10
+  A11       c11       e11       g11       i11       K11       M11       o11       Q11                 u11       W11
+       b11       d11       f11                 j11       L11       n11       p11                 t11       v11
+  A12       c12       E12       G12                 k12       m12       o12       q12       s12       U12       W12
+       b12       d12                 h12                 l12       n12       P12       R12       t12       v12
+  A13       c13       e13       g13       i13                 m13       o13       q13       s13       u13       w13
+       BBB       d13                 h13       j13       l13       n13       p13       r13       t13       BBB
+  a14       C14                 G14       I14       k14       m14       O14       Q14                 u14       w14
+       b14       D14                 H14       J14       L14       N14       p14                 T14       v14
